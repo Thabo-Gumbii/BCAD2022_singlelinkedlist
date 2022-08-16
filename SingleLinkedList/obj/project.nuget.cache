@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4KAgEms49/65VmHhVMAMQJyaKo6HqTCfK3zSLkmJIdAtnhvblC/rTkskxQk3GsQmJ5YFR2dgqEcpzYNh3ODrIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lab_services_student\\source\\repos\\SingleLinkedList\\SingleLinkedList\\SingleLinkedList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
